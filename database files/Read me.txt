@@ -1,0 +1,2 @@
+1. Create a database with the name "webguruz".
+2. Import these tables in the database.
